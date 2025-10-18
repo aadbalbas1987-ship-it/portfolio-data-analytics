@@ -1,0 +1,27 @@
+# Dashboards de Análisis
+
+## Ventas 2023
+Muestra cómo fue el año comercial:
+- Ventas por mes y sucursal
+- Productos más vendidos
+- Comparación con el año anterior
+
+## Rentabilidad 2022 
+Analiza ganancias y costos:
+- Márgenes por producto
+- Gastos operativos
+- Eficiencia por categoría
+
+## Inventario 2024
+Control de stock en tiempo real:
+- Alertas de productos con poco stock
+- Rotación de inventario
+- Pedidos automáticos
+
+## Hotel 2023
+Dashboard para hotel:
+- Ocupación por temporada
+- Tarifas por tipo de habitación
+- Reservas por canal (Booking, web, etc.)
+
+*Los dashboards están listos para conectar con tus datos*
