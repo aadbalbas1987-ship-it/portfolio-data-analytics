@@ -1,0 +1,34 @@
+REPORTE EJECUTIVO - ANÁLISIS HOTELERO 2023
+==================================================
+
+HOTEL: Gran Hotel Buenos Aires (4 estrellas)
+PERÍODO: Enero - Diciembre 2023
+HABITACIONES: 80
+
+PRINCIPALES KPIs:
+  • Total Revenue: $2,039,734,974.23
+  • Total Noches Vendidas: 49,524
+  • Ocupación Promedio: 169.6%
+  • ADR (Average Daily Rate): $41,186.80
+  • RevPAR (Revenue per Available Room): $69,853.94
+  • Reservas Totales: 15,223
+  • Estadía Promedio: 3.3 noches
+
+TOP 3 HABITACIONES POR REVENUE:
+  1. Suite: $977,177,703.90 (34.0%)
+  2. Familiar: $805,292,007.32 (28.0%)
+  3. Superior: $623,707,385.99 (21.7%)
+
+DISTRIBUCIÓN POR MERCADO:
+  • Argentina: 41.2% (ADR: $37,625)
+  • Brasil: 20.8% (ADR: $43,601)
+  • Estados Unidos: 17.7% (ADR: $47,546)
+  • Europa: 12.5% (ADR: $45,943)
+  • Otros Latinoamérica: 7.9% (ADR: $40,817)
+
+EFICIENCIA POR CANAL:
+  • Booking.com: 34.6% (Reservas: 7,436.0)
+  • Sitio Web: 25.4% (Reservas: 5,423.0)
+  • Expedia: 15.3% (Reservas: 3,317.0)
+  • Despegar: 9.7% (Reservas: 2,101.0)
+  • Agencia: 7.9% (Reservas: 1,719.0)
