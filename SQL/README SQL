@@ -1,0 +1,24 @@
+# Base de Datos para Mayorista
+
+## Qué hice
+Creé una base de datos completa para manejar:
+- Proveedores (Molinos, Coca-Cola, Unilever)
+- Productos (60+ artículos de supermercado)
+- Clientes (50 negocios)
+- Ventas (20,000+ transacciones)
+- Inventario (8 sucursales)
+
+## Consultas útiles que incluyo
+- Top 10 clientes por compras
+- Productos con stock bajo
+- Ventas mensuales comparadas
+- Márgenes por categoría
+
+## Para qué sirve
+Los negocios pueden:
+- Ver qué productos venden más
+- Saber cuándo reponer stock
+- Identificar clientes importantes
+- Controlar las compras a proveedores
+
+*Listo para usar en MySQL o PostgreSQL*
