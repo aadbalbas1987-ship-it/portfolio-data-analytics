@@ -1,0 +1,50 @@
+# Análisis con Excel
+
+## Control de Compras 2023
+Sistema para gestionar compras de una distribuidora:
+- Seguimiento de órdenes de compra
+- Control de proveedores y precios
+- Dashboard de eficiencia de compras
+- Análisis de descuentos obtenidos
+
+**Qué incluye:**
+- 500 órdenes de compra realistas
+- 10 proveedores principales
+- Estados de compra (pendiente, completada, etc.)
+- Métodos de pago y condiciones
+
+## Análisis de Precios 2024
+Estudio competitivo de precios en el mercado:
+- Comparación con competidores (Coto, Carrefour, etc.)
+- Análisis de márgenes por producto
+- Recomendaciones de ajuste de precios
+- Sensibilidad de demanda
+
+**Qué incluye:**
+- Precios de 15 productos clave
+- Comparativa con 7 competidores
+- Análisis de rentabilidad
+- Dashboard de recomendaciones
+
+## Cómo usar los archivos
+1. **Control de Compras.xlsx** - Tiene 4 hojas:
+   - Órdenes de compra
+   - Detalle de items
+   - Facturas
+   - Dashboard resumen
+
+2. **Análisis de Precios.xlsx** - Tiene 5 hojas:
+   - Precios históricos
+   - Competencia
+   - Rentabilidad
+   - Recomendaciones
+   - Dashboard
+
+## Herramientas usadas
+- Tablas dinámicas
+- Formatos condicionales
+- Gráficos dinámicos
+- Funciones avanzadas
+- Validación de datos
+
+*Andres Antolin - aadbalbas1987@gmail.com*
