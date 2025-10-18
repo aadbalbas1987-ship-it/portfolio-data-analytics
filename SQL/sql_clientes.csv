@@ -1,0 +1,51 @@
+﻿ClienteID,Nombre,TipoCliente,CUIT,Direccion,Telefono,Email,LimiteCredito,CondicionPago,VendedorAsignado,FechaAlta,Activo
+CLI001,La Anónima Sucursal 31,Supermercado,20-96892040-6,Calle 1696 #83,11-4540-3443,contacto@laanónimasucursal31.com.ar,776973,15 días,VEND-10,2020-04-18,True
+CLI002,Almacén El Cruce,Almacén,20-40432077-7,Calle 1326 #35,11-3192-4279,contacto@almacénelcruce.com.ar,280818,7 días,VEND-03,2023-10-14,True
+CLI003,La Anónima Sucursal 45,Supermercado,20-27408842-8,Calle 7717 #2,11-3451-4980,contacto@laanónimasucursal45.com.ar,1272050,Contado,VEND-04,2022-04-07,True
+CLI004,Almacén Central,Almacén,20-15673062-3,Calle 7532 #14,11-6492-3811,contacto@almacéncentral.com.ar,143467,7 días,VEND-04,2020-07-28,True
+CLI005,Distribuidora Norte,Distribuidor,20-94121778-5,Calle 2517 #32,11-6843-6549,contacto@distribuidoranorte.com.ar,843142,30 días,VEND-02,2020-03-15,True
+CLI006,Changomás Sucursal 37,Supermercado,20-17695791-5,Calle 6324 #68,11-5540-9080,contacto@changomássucursal37.com.ar,698357,Contado,VEND-10,2022-08-15,False
+CLI007,Kiosco Don Pedro,Kiosco,20-24262838-5,Calle 1385 #13,11-7606-9028,contacto@kioscodonpedro.com.ar,221900,15 días,VEND-03,2022-06-08,True
+CLI008,Kiosco El Progreso,Kiosco,20-82185818-1,Calle 8328 #39,11-7338-2745,contacto@kioscoelprogreso.com.ar,168596,15 días,VEND-08,2020-04-09,True
+CLI009,Kiosco Central,Kiosco,20-90756981-4,Calle 5876 #5,11-7611-9011,contacto@kioscocentral.com.ar,122855,Contado,VEND-07,2022-04-28,True
+CLI010,Almacén Central,Almacén,20-56885563-1,Calle 3640 #58,11-5309-6799,contacto@almacéncentral.com.ar,85410,7 días,VEND-01,2023-01-07,True
+CLI011,Kiosco Don Pedro,Kiosco,20-57069754-5,Calle 4527 #52,11-7661-2742,contacto@kioscodonpedro.com.ar,243529,15 días,VEND-07,2020-03-24,True
+CLI012,Kiosco San José,Kiosco,20-98834022-6,Calle 3031 #7,11-5004-1449,contacto@kioscosanjosé.com.ar,154494,30 días,VEND-05,2022-11-10,True
+CLI013,Kiosco San José,Kiosco,20-87085129-6,Calle 3761 #98,11-7983-2784,contacto@kioscosanjosé.com.ar,94382,15 días,VEND-03,2021-10-18,False
+CLI014,Mayorista Precio Bajo,Mayorista,20-47039058-8,Calle 9668 #98,11-4492-6521,contacto@mayoristapreciobajo.com.ar,679866,15 días,VEND-07,2020-09-29,False
+CLI015,Kiosco El Cruce,Kiosco,20-16782945-7,Calle 9690 #36,11-6548-2957,contacto@kioscoelcruce.com.ar,91621,Contado,VEND-03,2023-06-10,True
+CLI016,Mayorista Gran Precio,Mayorista,20-37820825-2,Calle 897 #47,11-6633-3177,contacto@mayoristagranprecio.com.ar,518602,30 días,VEND-03,2020-09-07,True
+CLI017,Distribuidora Sur,Distribuidor,20-13370173-2,Calle 1058 #94,11-7382-8011,contacto@distribuidorasur.com.ar,838027,15 días,VEND-09,2022-01-09,True
+CLI018,Kiosco Don Pedro,Kiosco,20-39413744-5,Calle 6466 #65,11-5419-8569,contacto@kioscodonpedro.com.ar,111768,30 días,VEND-03,2023-09-19,True
+CLI019,Carrefour Sucursal 19,Supermercado,20-79933255-1,Calle 8618 #72,11-4366-9181,contacto@carrefoursucursal19.com.ar,1385963,Contado,VEND-05,2022-11-28,True
+CLI020,Walmart Sucursal 36,Supermercado,20-10543408-5,Calle 5540 #14,11-5328-6616,contacto@walmartsucursal36.com.ar,1356158,15 días,VEND-08,2021-02-13,True
+CLI021,Kiosco San José,Kiosco,20-27204780-4,Calle 4927 #22,11-7718-3827,contacto@kioscosanjosé.com.ar,68999,15 días,VEND-10,2021-03-05,True
+CLI022,La Anónima Sucursal 14,Supermercado,20-60744374-4,Calle 1560 #7,11-4993-1163,contacto@laanónimasucursal14.com.ar,662548,7 días,VEND-05,2021-08-22,True
+CLI023,Almacén El Cruce,Almacén,20-98221028-9,Calle 9857 #48,11-7935-9438,contacto@almacénelcruce.com.ar,165000,Contado,VEND-10,2021-07-07,True
+CLI024,Almacén El Cruce,Almacén,20-51738576-6,Calle 1780 #64,11-4261-6456,contacto@almacénelcruce.com.ar,143255,30 días,VEND-09,2020-06-05,True
+CLI025,Kiosco Central,Kiosco,20-27342785-4,Calle 5150 #15,11-6642-9442,contacto@kioscocentral.com.ar,281936,7 días,VEND-02,2022-11-12,True
+CLI026,Mayorista El Económico,Mayorista,20-89671896-8,Calle 7882 #97,11-4633-9396,contacto@mayoristaeleconómico.com.ar,1034250,Contado,VEND-06,2021-06-08,True
+CLI027,Kiosco El Progreso,Kiosco,20-51600085-6,Calle 3563 #12,11-4858-5837,contacto@kioscoelprogreso.com.ar,279260,15 días,VEND-02,2021-07-25,True
+CLI028,Distribuidora Central,Distribuidor,20-14172646-1,Calle 8979 #10,11-4702-4301,contacto@distribuidoracentral.com.ar,917976,7 días,VEND-03,2023-10-25,True
+CLI029,Kiosco El Cruce,Kiosco,20-42209470-5,Calle 6164 #98,11-3106-6710,contacto@kioscoelcruce.com.ar,82884,Contado,VEND-08,2022-04-20,True
+CLI030,Jumbo Sucursal 12,Supermercado,20-71388398-3,Calle 6617 #77,11-3431-2538,contacto@jumbosucursal12.com.ar,1512031,30 días,VEND-07,2020-08-19,True
+CLI031,Almacén San José,Almacén,20-17036759-7,Calle 8752 #87,11-5799-7493,contacto@almacénsanjosé.com.ar,92610,7 días,VEND-03,2023-12-28,True
+CLI032,Mayorista El Económico,Mayorista,20-14824245-1,Calle 4653 #72,11-5860-2091,contacto@mayoristaeleconómico.com.ar,665797,Contado,VEND-08,2022-09-13,True
+CLI033,Mayorista Todo Mayorista,Mayorista,20-54364164-4,Calle 8546 #8,11-4433-6144,contacto@mayoristatodomayorista.com.ar,1036621,Contado,VEND-03,2022-09-18,True
+CLI034,Distribuidora Rápida,Distribuidor,20-75501202-9,Calle 451 #40,11-6255-7225,contacto@distribuidorarápida.com.ar,683038,Contado,VEND-07,2020-01-11,True
+CLI035,Jumbo Sucursal 4,Supermercado,20-26120358-1,Calle 1285 #27,11-4518-2783,contacto@jumbosucursal4.com.ar,1743446,Contado,VEND-10,2023-07-08,True
+CLI036,Distribuidora Sur,Distribuidor,20-49063198-1,Calle 1916 #88,11-7654-7641,contacto@distribuidorasur.com.ar,625130,15 días,VEND-09,2021-01-10,True
+CLI037,La Anónima Sucursal 7,Supermercado,20-74648412-1,Calle 8124 #27,11-7438-2960,contacto@laanónimasucursal7.com.ar,1856166,Contado,VEND-08,2022-08-03,True
+CLI038,Kiosco San José,Kiosco,20-91298529-2,Calle 1525 #5,11-3927-7113,contacto@kioscosanjosé.com.ar,290504,15 días,VEND-01,2020-09-29,True
+CLI039,Changomás Sucursal 16,Supermercado,20-85062550-3,Calle 4208 #57,11-4260-9674,contacto@changomássucursal16.com.ar,1194126,15 días,VEND-05,2022-04-09,True
+CLI040,Almacén El Progreso,Almacén,20-19997999-3,Calle 3089 #49,11-7611-6834,contacto@almacénelprogreso.com.ar,71038,30 días,VEND-10,2022-10-16,False
+CLI041,Kiosco El Cruce,Kiosco,20-11117607-1,Calle 2326 #59,11-4709-1835,contacto@kioscoelcruce.com.ar,273139,Contado,VEND-01,2022-01-03,False
+CLI042,Distribuidora Este,Distribuidor,20-75553172-5,Calle 5615 #15,11-6895-7149,contacto@distribuidoraeste.com.ar,942703,30 días,VEND-02,2023-07-18,True
+CLI043,Mayorista Gran Precio,Mayorista,20-24558832-2,Calle 4845 #61,11-3579-3409,contacto@mayoristagranprecio.com.ar,905556,30 días,VEND-09,2022-04-30,False
+CLI044,Distribuidora Rápida,Distribuidor,20-11038492-5,Calle 3113 #64,11-4571-9761,contacto@distribuidorarápida.com.ar,706373,7 días,VEND-01,2021-03-21,True
+CLI045,Jumbo Sucursal 42,Supermercado,20-54356924-3,Calle 1583 #46,11-3811-8232,contacto@jumbosucursal42.com.ar,1694601,15 días,VEND-06,2022-09-11,True
+CLI046,Vea Sucursal 4,Supermercado,20-72361600-7,Calle 3468 #86,11-6650-4016,contacto@veasucursal4.com.ar,1246960,30 días,VEND-02,2022-04-26,True
+CLI047,Almacén Central,Almacén,20-24759497-2,Calle 4412 #82,11-4902-5799,contacto@almacéncentral.com.ar,274266,30 días,VEND-09,2022-01-26,True
+CLI048,Walmart Sucursal 25,Supermercado,20-47879888-7,Calle 8720 #28,11-5723-2336,contacto@walmartsucursal25.com.ar,750436,7 días,VEND-02,2023-02-26,True
+CLI049,Coto Sucursal 13,Supermercado,20-29601906-3,Calle 5438 #91,11-6279-9270,contacto@cotosucursal13.com.ar,961626,7 días,VEND-01,2023-01-03,True
+CLI050,La Anónima Sucursal 2,Supermercado,20-39390848-8,Calle 3881 #97,11-4366-9492,contacto@laanónimasucursal2.com.ar,1144795,Contado,VEND-09,2023-09-08,True

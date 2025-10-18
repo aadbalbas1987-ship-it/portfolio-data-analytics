@@ -1,0 +1,16 @@
+﻿ProductoID,Nombre,Categoria,Subcategoria,Marca,ProveedorID,UnidadMedida,Peso,PrecioLista,CostoBase,StockMinimo,StockMaximo,Activo
+ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Favorita,PROV-001,kg,1.0,650,420,100,1000,True
+ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma,PROV-001,kg,1.0,520,350,80,800,True
+ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Gallo,PROV-001,kg,1.0,850,580,120,1200,True
+ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo,PROV-006,g,0.5,420,280,150,1500,True
+ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Natura,PROV-001,lt,1.5,1850,1250,60,600,True
+BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur,PROV-004,lt,2.0,350,220,200,2000,True
+BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola,PROV-004,lt,2.25,980,680,180,1800,True
+BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Quilmes,PROV-005,lt,1.0,520,350,160,1600,True
+BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Toro,PROV-005,lt,1.0,1250,850,80,800,True
+LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín,PROV-003,lt,1.0,520,350,100,1000,True
+LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral,PROV-003,ml,0.75,600,400,120,1200,True
+LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Ala,PROV-003,g,0.8,850,580,90,900,True
+LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,La Serenísima,PROV-002,lt,1.0,420,280,300,3000,True
+LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina,PROV-002,g,0.4,1250,850,60,600,True
+LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,La Serenísima,PROV-002,g,0.19,220,150,200,2000,True
