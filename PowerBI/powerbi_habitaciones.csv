@@ -1,0 +1,81 @@
+﻿HabitacionID,TipoHabitacion,Categoria,Capacidad,PrecioBase,Piso,Vista,Caracteristicas
+STA001,Standard,Standard,2,18500,2,Patio,Familiar
+STA002,Standard,Standard,2,18500,8,Patio,Suite Junior
+STA003,Standard,Standard,2,18500,7,Calle,Familiar
+STA004,Standard,Standard,2,18500,7,Ciudad,Familiar
+STA005,Standard,Standard,2,18500,5,Patio,Standard
+STA006,Standard,Standard,2,18500,6,Patio,Con Balcón
+STA007,Standard,Standard,2,18500,6,Patio,Con Balcón
+STA008,Standard,Standard,2,18500,2,Ciudad,Suite Junior
+STA009,Standard,Standard,2,18500,5,Ciudad,Con Balcón
+STA010,Standard,Standard,2,18500,8,Calle,Con Balcón
+STA011,Standard,Standard,2,18500,4,Ciudad,Standard
+STA012,Standard,Standard,2,18500,4,Ciudad,Familiar
+STA013,Standard,Standard,2,18500,1,Calle,Familiar
+STA014,Standard,Standard,2,18500,7,Patio,Suite Junior
+STA015,Standard,Standard,2,18500,5,Patio,Con Balcón
+STA016,Standard,Standard,2,18500,1,Calle,Suite Junior
+STA017,Standard,Standard,2,18500,7,Patio,Familiar
+STA018,Standard,Standard,2,18500,4,Calle,Suite Junior
+STA019,Standard,Standard,2,18500,5,Calle,Standard
+STA020,Standard,Standard,2,18500,6,Calle,Familiar
+STA021,Standard,Standard,2,18500,4,Calle,Standard
+STA022,Standard,Standard,2,18500,4,Patio,Standard
+STA023,Standard,Standard,2,18500,1,Calle,Standard
+STA024,Standard,Standard,2,18500,5,Calle,Con Balcón
+STA025,Standard,Standard,2,18500,7,Patio,Con Balcón
+STA026,Standard,Standard,2,18500,5,Patio,Con Balcón
+STA027,Standard,Standard,2,18500,1,Patio,Standard
+STA028,Standard,Standard,2,18500,5,Calle,Standard
+STA029,Standard,Standard,2,18500,2,Calle,Con Balcón
+STA030,Standard,Standard,2,18500,1,Calle,Standard
+STA031,Standard,Standard,2,18500,2,Ciudad,Familiar
+STA032,Standard,Standard,2,18500,3,Patio,Familiar
+STA033,Standard,Standard,2,18500,6,Calle,Familiar
+STA034,Standard,Standard,2,18500,2,Calle,Standard
+STA035,Standard,Standard,2,18500,3,Patio,Con Balcón
+SUP036,Superior,Superior,3,24500,6,Calle,Suite Junior
+SUP037,Superior,Superior,3,24500,1,Patio,Suite Junior
+SUP038,Superior,Superior,3,24500,5,Patio,Con Balcón
+SUP039,Superior,Superior,3,24500,2,Patio,Con Balcón
+SUP040,Superior,Superior,3,24500,1,Patio,Suite Junior
+SUP041,Superior,Superior,3,24500,1,Ciudad,Standard
+SUP042,Superior,Superior,3,24500,4,Patio,Suite Junior
+SUP043,Superior,Superior,3,24500,6,Calle,Suite Junior
+SUP044,Superior,Superior,3,24500,8,Patio,Suite Junior
+SUP045,Superior,Superior,3,24500,3,Ciudad,Standard
+SUP046,Superior,Superior,3,24500,2,Calle,Familiar
+SUP047,Superior,Superior,3,24500,5,Calle,Suite Junior
+SUP048,Superior,Superior,3,24500,5,Ciudad,Con Balcón
+SUP049,Superior,Superior,3,24500,6,Calle,Standard
+SUP050,Superior,Superior,3,24500,3,Ciudad,Familiar
+SUP051,Superior,Superior,3,24500,4,Ciudad,Suite Junior
+SUP052,Superior,Superior,3,24500,1,Patio,Standard
+SUP053,Superior,Superior,3,24500,6,Calle,Con Balcón
+SUP054,Superior,Superior,3,24500,6,Calle,Con Balcón
+SUP055,Superior,Superior,3,24500,6,Calle,Standard
+SUP056,Superior,Superior,3,24500,1,Calle,Con Balcón
+SUP057,Superior,Superior,3,24500,2,Patio,Suite Junior
+SUP058,Superior,Superior,3,24500,8,Ciudad,Familiar
+SUP059,Superior,Superior,3,24500,7,Calle,Suite Junior
+SUP060,Superior,Superior,3,24500,1,Ciudad,Standard
+SUI061,Suite,Lujo,4,38500,1,Calle,Suite Junior
+SUI062,Suite,Lujo,4,38500,2,Patio,Familiar
+SUI063,Suite,Lujo,4,38500,7,Calle,Standard
+SUI064,Suite,Lujo,4,38500,5,Calle,Con Balcón
+SUI065,Suite,Lujo,4,38500,3,Patio,Standard
+SUI066,Suite,Lujo,4,38500,4,Ciudad,Suite Junior
+SUI067,Suite,Lujo,4,38500,1,Patio,Suite Junior
+SUI068,Suite,Lujo,4,38500,5,Patio,Standard
+SUI069,Suite,Lujo,4,38500,2,Ciudad,Con Balcón
+SUI070,Suite,Lujo,4,38500,1,Ciudad,Con Balcón
+SUI071,Suite,Lujo,4,38500,6,Patio,Con Balcón
+SUI072,Suite,Lujo,4,38500,2,Calle,Familiar
+FAM073,Familiar,Familiar,5,31500,4,Ciudad,Standard
+FAM074,Familiar,Familiar,5,31500,6,Ciudad,Con Balcón
+FAM075,Familiar,Familiar,5,31500,8,Patio,Familiar
+FAM076,Familiar,Familiar,5,31500,4,Ciudad,Familiar
+FAM077,Familiar,Familiar,5,31500,4,Patio,Suite Junior
+FAM078,Familiar,Familiar,5,31500,1,Ciudad,Con Balcón
+FAM079,Familiar,Familiar,5,31500,8,Calle,Con Balcón
+FAM080,Familiar,Familiar,5,31500,5,Ciudad,Standard

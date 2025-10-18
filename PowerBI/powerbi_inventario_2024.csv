@@ -1,0 +1,121 @@
+﻿Sucursal,SKU,Producto,Categoria,Subcategoria,Proveedor,StockActual,StockMinimo,StockMaximo,CostoUnitario,PrecioVenta,ValorStock,DiasStock,EstadoStock,Unidad,PesoUnitario,Ubicacion
+CABA_Centro,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,433,129,866,420,650,181860,23.2,Optimo,kg,1.0,PAS-8-EST-4
+CABA_Centro,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,249,74,498,350,520,87150,9.8,Critico,kg,1.0,PAS-1-EST-5
+CABA_Centro,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,424,127,848,580,850,245920,20.1,Optimo,kg,1.0,PAS-2-EST-3
+CABA_Centro,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,300,90,600,280,420,84000,41.5,Optimo,g,0.5,PAS-2-EST-4
+CABA_Centro,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,406,121,812,1250,1850,507500,21.1,Optimo,lt,1.5,PAS-1-EST-3
+CABA_Centro,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,127,38,254,220,350,27940,16.6,Optimo,lt,2.0,PAS-4-EST-2
+CABA_Centro,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,424,127,848,680,980,288320,25.5,Optimo,lt,2.25,PAS-9-EST-5
+CABA_Centro,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,452,135,904,350,520,158200,20.8,Optimo,lt,1.0,PAS-10-EST-5
+CABA_Centro,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,407,122,814,850,1250,345950,15.4,Optimo,lt,1.0,PAS-8-EST-3
+CABA_Centro,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,87,26,174,350,520,30450,3.8,Critico,lt,1.0,PAS-9-EST-1
+CABA_Centro,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,235,70,470,400,600,94000,16.9,Optimo,ml,0.75,PAS-7-EST-2
+CABA_Centro,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,231,69,462,580,850,133980,29.9,Optimo,g,0.8,PAS-4-EST-4
+CABA_Centro,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,119,35,238,280,420,33320,4.5,Critico,lt,1.0,PAS-6-EST-3
+CABA_Centro,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,492,147,984,850,1250,418200,120.0,Exceso,g,0.4,PAS-6-EST-3
+CABA_Centro,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,469,140,938,150,220,70350,51.9,Optimo,g,0.19,PAS-10-EST-4
+CABA_Norte,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,451,135,902,420,650,189420,70.8,Exceso,kg,1.0,PAS-7-EST-4
+CABA_Norte,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,419,125,838,350,520,146650,18.7,Optimo,kg,1.0,PAS-10-EST-4
+CABA_Norte,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,371,111,742,580,850,215180,81.8,Exceso,kg,1.0,PAS-8-EST-2
+CABA_Norte,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,281,84,562,280,420,78680,12.8,Critico,g,0.5,PAS-2-EST-2
+CABA_Norte,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,177,53,354,1250,1850,221250,8.9,Critico,lt,1.5,PAS-4-EST-3
+CABA_Norte,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,367,110,734,220,350,80740,14.5,Critico,lt,2.0,PAS-9-EST-2
+CABA_Norte,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,326,97,652,680,980,221680,22.9,Optimo,lt,2.25,PAS-3-EST-5
+CABA_Norte,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,141,42,282,350,520,49350,15.3,Optimo,lt,1.0,PAS-5-EST-5
+CABA_Norte,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,203,60,406,850,1250,172550,10.6,Critico,lt,1.0,PAS-9-EST-2
+CABA_Norte,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,54,20,108,350,520,18900,11.2,Critico,lt,1.0,PAS-1-EST-1
+CABA_Norte,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,190,57,380,400,600,76000,14.5,Critico,ml,0.75,PAS-3-EST-2
+CABA_Norte,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,223,66,446,580,850,129340,14.7,Critico,g,0.8,PAS-2-EST-1
+CABA_Norte,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,302,90,604,280,420,84560,18.3,Optimo,lt,1.0,PAS-4-EST-3
+CABA_Norte,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,169,50,338,850,1250,143650,12.3,Critico,g,0.4,PAS-2-EST-1
+CABA_Norte,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,425,127,850,150,220,63750,71.6,Exceso,g,0.19,PAS-7-EST-4
+GBA_Sur,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,397,119,794,420,650,166740,23.2,Optimo,kg,1.0,PAS-2-EST-1
+GBA_Sur,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,75,22,150,350,520,26250,3.4,Critico,kg,1.0,PAS-1-EST-2
+GBA_Sur,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,239,71,478,580,850,138620,11.4,Critico,kg,1.0,PAS-3-EST-4
+GBA_Sur,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,61,20,122,280,420,17080,2.7,Critico,g,0.5,PAS-9-EST-3
+GBA_Sur,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,279,83,558,1250,1850,348750,20.1,Optimo,lt,1.5,PAS-2-EST-2
+GBA_Sur,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,499,149,998,220,350,109780,23.6,Optimo,lt,2.0,PAS-10-EST-5
+GBA_Sur,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,195,58,390,680,980,132600,47.6,Optimo,lt,2.25,PAS-9-EST-5
+GBA_Sur,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,299,89,598,350,520,104650,40.6,Optimo,lt,1.0,PAS-10-EST-5
+GBA_Sur,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,134,40,268,850,1250,113900,22.8,Optimo,lt,1.0,PAS-8-EST-4
+GBA_Sur,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,247,74,494,350,520,86450,9.7,Critico,lt,1.0,PAS-4-EST-2
+GBA_Sur,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,282,84,564,400,600,112800,22.5,Optimo,ml,0.75,PAS-1-EST-4
+GBA_Sur,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,297,89,594,580,850,172260,14.1,Critico,g,0.8,PAS-4-EST-2
+GBA_Sur,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,284,85,568,280,420,79520,14.3,Critico,lt,1.0,PAS-6-EST-5
+GBA_Sur,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,91,27,182,850,1250,77350,3.5,Critico,g,0.4,PAS-8-EST-3
+GBA_Sur,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,109,32,218,150,220,16350,19.6,Optimo,g,0.19,PAS-10-EST-1
+GBA_Oeste,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,127,38,254,420,650,53340,9.3,Critico,kg,1.0,PAS-7-EST-3
+GBA_Oeste,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,296,88,592,350,520,103600,37.6,Optimo,kg,1.0,PAS-1-EST-3
+GBA_Oeste,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,140,42,280,580,850,81200,5.4,Critico,kg,1.0,PAS-1-EST-2
+GBA_Oeste,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,399,119,798,280,420,111720,95.8,Exceso,g,0.5,PAS-7-EST-2
+GBA_Oeste,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,146,43,292,1250,1850,182500,6.4,Critico,lt,1.5,PAS-2-EST-1
+GBA_Oeste,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,388,116,776,220,350,85360,74.1,Exceso,lt,2.0,PAS-8-EST-1
+GBA_Oeste,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,461,138,922,680,980,313480,50.8,Optimo,lt,2.25,PAS-8-EST-5
+GBA_Oeste,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,70,21,140,350,520,24500,7.5,Critico,lt,1.0,PAS-4-EST-2
+GBA_Oeste,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,441,132,882,850,1250,374850,17.4,Optimo,lt,1.0,PAS-10-EST-4
+GBA_Oeste,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,107,32,214,350,520,37450,9.1,Critico,lt,1.0,PAS-10-EST-4
+GBA_Oeste,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,452,135,904,400,600,180800,18.7,Optimo,ml,0.75,PAS-3-EST-3
+GBA_Oeste,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,462,138,924,580,850,267960,54.4,Optimo,g,0.8,PAS-8-EST-5
+GBA_Oeste,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,235,70,470,280,420,65800,26.6,Optimo,lt,1.0,PAS-2-EST-1
+GBA_Oeste,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,426,127,852,850,1250,362100,26.5,Optimo,g,0.4,PAS-7-EST-1
+GBA_Oeste,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,242,72,484,150,220,36300,28.5,Optimo,g,0.19,PAS-4-EST-1
+La_Plata,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,262,78,524,420,650,110040,11.4,Critico,kg,1.0,PAS-9-EST-5
+La_Plata,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,275,82,550,350,520,96250,16.0,Optimo,kg,1.0,PAS-8-EST-2
+La_Plata,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,490,147,980,580,850,284200,22.1,Optimo,kg,1.0,PAS-1-EST-4
+La_Plata,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,358,107,716,280,420,100240,19.6,Optimo,g,0.5,PAS-7-EST-3
+La_Plata,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,240,72,480,1250,1850,300000,19.1,Optimo,lt,1.5,PAS-9-EST-4
+La_Plata,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,86,25,172,220,350,18920,4.7,Critico,lt,2.0,PAS-2-EST-3
+La_Plata,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,132,39,264,680,980,89760,35.0,Optimo,lt,2.25,PAS-9-EST-1
+La_Plata,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,119,35,238,350,520,41650,5.1,Critico,lt,1.0,PAS-2-EST-1
+La_Plata,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,270,81,540,850,1250,229500,13.4,Critico,lt,1.0,PAS-5-EST-5
+La_Plata,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,94,28,188,350,520,32900,6.1,Critico,lt,1.0,PAS-6-EST-3
+La_Plata,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,455,136,910,400,600,182000,21.1,Optimo,ml,0.75,PAS-10-EST-2
+La_Plata,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,83,24,166,580,850,48140,10.8,Critico,g,0.8,PAS-8-EST-2
+La_Plata,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,332,99,664,280,420,92960,17.1,Optimo,lt,1.0,PAS-3-EST-4
+La_Plata,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,277,83,554,850,1250,235450,23.1,Optimo,g,0.4,PAS-6-EST-3
+La_Plata,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,326,97,652,150,220,48900,19.7,Optimo,g,0.19,PAS-3-EST-3
+Rosario,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,264,79,528,420,650,110880,70.1,Exceso,kg,1.0,PAS-1-EST-4
+Rosario,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,287,86,574,350,520,100450,30.1,Optimo,kg,1.0,PAS-2-EST-5
+Rosario,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,406,121,812,580,850,235480,15.3,Optimo,kg,1.0,PAS-7-EST-5
+Rosario,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,499,149,998,280,420,139720,22.4,Optimo,g,0.5,PAS-2-EST-3
+Rosario,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,83,24,166,1250,1850,103750,4.7,Critico,lt,1.5,PAS-6-EST-3
+Rosario,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,387,116,774,220,350,85140,82.3,Exceso,lt,2.0,PAS-10-EST-3
+Rosario,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,224,67,448,680,980,152320,27.1,Optimo,lt,2.25,PAS-4-EST-4
+Rosario,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,292,87,584,350,520,102200,42.3,Optimo,lt,1.0,PAS-10-EST-5
+Rosario,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,187,56,374,850,1250,158950,14.2,Critico,lt,1.0,PAS-10-EST-4
+Rosario,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,451,135,902,350,520,157850,30.5,Optimo,lt,1.0,PAS-1-EST-4
+Rosario,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,95,28,190,400,600,38000,3.9,Critico,ml,0.75,PAS-1-EST-5
+Rosario,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,224,67,448,580,850,129920,26.2,Optimo,g,0.8,PAS-1-EST-3
+Rosario,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,253,75,506,280,420,70840,21.2,Optimo,lt,1.0,PAS-5-EST-1
+Rosario,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,462,138,924,850,1250,392700,20.3,Optimo,g,0.4,PAS-4-EST-1
+Rosario,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,78,23,156,150,220,11700,17.7,Optimo,g,0.19,PAS-2-EST-1
+Córdoba,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,227,68,454,420,650,95340,10.3,Critico,kg,1.0,PAS-2-EST-5
+Córdoba,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,424,127,848,350,520,148400,27.3,Optimo,kg,1.0,PAS-1-EST-5
+Córdoba,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,298,89,596,580,850,172840,15.1,Optimo,kg,1.0,PAS-9-EST-3
+Córdoba,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,465,139,930,280,420,130200,26.3,Optimo,g,0.5,PAS-8-EST-2
+Córdoba,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,315,94,630,1250,1850,393750,51.1,Optimo,lt,1.5,PAS-7-EST-4
+Córdoba,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,224,67,448,220,350,49280,10.8,Critico,lt,2.0,PAS-4-EST-5
+Córdoba,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,137,41,274,680,980,93160,8.0,Critico,lt,2.25,PAS-1-EST-2
+Córdoba,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,278,83,556,350,520,97300,18.6,Optimo,lt,1.0,PAS-2-EST-2
+Córdoba,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,389,116,778,850,1250,330650,17.8,Optimo,lt,1.0,PAS-3-EST-2
+Córdoba,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,244,73,488,350,520,85400,12.6,Critico,lt,1.0,PAS-3-EST-5
+Córdoba,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,218,65,436,400,600,87200,10.6,Critico,ml,0.75,PAS-4-EST-5
+Córdoba,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,240,72,480,580,850,139200,36.2,Optimo,g,0.8,PAS-3-EST-5
+Córdoba,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,469,140,938,280,420,131320,19.3,Optimo,lt,1.0,PAS-9-EST-4
+Córdoba,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,60,20,120,850,1250,51000,10.5,Critico,g,0.4,PAS-6-EST-2
+Córdoba,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,347,104,694,150,220,52050,48.6,Optimo,g,0.19,PAS-3-EST-5
+Mendoza,ALK-001,Harina 0000 Favorita 1kg,ALMACEN,Harinas,Molino Favorita,109,32,218,420,650,45780,12.2,Critico,kg,1.0,PAS-5-EST-5
+Mendoza,ALK-002,Azúcar Ledesma 1kg,ALMACEN,Endulzantes,Ledesma S.A.,135,40,270,350,520,47250,14.6,Critico,kg,1.0,PAS-8-EST-4
+Mendoza,ALK-003,Arroz Largo Fino Gallo 1kg,ALMACEN,Arroces,Molinos Gallo,98,29,196,580,850,56840,4.5,Critico,kg,1.0,PAS-9-EST-2
+Mendoza,ALK-004,Fideos Moñito Matarazzo 500g,ALMACEN,Fideos,Matarazzo S.A.,216,64,432,280,420,60480,23.1,Optimo,g,0.5,PAS-6-EST-5
+Mendoza,ALK-005,Aceite Girasol Natura 1.5L,ALMACEN,Aceites,Aceitera Natura,479,143,958,1250,1850,598750,24.4,Optimo,lt,1.5,PAS-2-EST-2
+Mendoza,BEB-001,Agua Villa del Sur 2L,BEBIDAS,Aguas,Villa del Sur S.A.,169,50,338,220,350,37180,16.1,Optimo,lt,2.0,PAS-3-EST-2
+Mendoza,BEB-002,Coca-Cola 2.25L,BEBIDAS,Gaseosas,Coca-Cola Argentina,61,20,122,680,980,41480,6.3,Critico,lt,2.25,PAS-7-EST-1
+Mendoza,BEB-003,Cerveza Quilmes 1L,BEBIDAS,Cervezas,Cervecería Quilmes,479,143,958,350,520,167650,18.3,Optimo,lt,1.0,PAS-4-EST-4
+Mendoza,BEB-004,Vino Tinto Toro 1L,BEBIDAS,Vinos,Bodega Toro,57,20,114,850,1250,48450,4.6,Critico,lt,1.0,PAS-6-EST-1
+Mendoza,LIM-001,Lavandina Ayudín 1L,LIMPIEZA,Desinfectantes,Ayudín S.A.,281,84,562,350,520,98350,25.9,Optimo,lt,1.0,PAS-2-EST-2
+Mendoza,LIM-002,Detergente Magistral 750ml,LIMPIEZA,Detergentes,Magistral S.A.,115,34,230,400,600,46000,11.2,Critico,ml,0.75,PAS-8-EST-2
+Mendoza,LIM-003,Jabón Polvo Ala 800g,LIMPIEZA,Jabones,Unilever Argentina,328,98,656,580,850,190240,28.0,Optimo,g,0.8,PAS-1-EST-2
+Mendoza,LAC-001,Leche Entera La Serenísima 1L,LACTEOS,Leches,Mastellone Hnos.,178,53,356,280,420,49840,12.6,Critico,lt,1.0,PAS-10-EST-1
+Mendoza,LAC-002,Queso Cremón La Paulina 400g,LACTEOS,Quesos,La Paulina S.A.,404,121,808,850,1250,343400,24.1,Optimo,g,0.4,PAS-4-EST-5
+Mendoza,LAC-003,Yogur Firme La Serenísima 190g,LACTEOS,Yogures,Mastellone Hnos.,347,104,694,150,220,52050,18.5,Optimo,g,0.19,PAS-10-EST-2
