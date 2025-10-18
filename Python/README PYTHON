@@ -1,0 +1,26 @@
+# Análisis de Datos con Python
+
+## Ventas Mayoristas 2022-2024
+Estudié 3 años de ventas de una distribuidora. Encontré:
+- Crecimiento del 18% entre 2022 y 2023  
+- Los productos de limpieza tienen mejor margen
+- La sucursal de CABA Centro vende más
+
+## Datos Hotel 2023
+Analicé un hotel de 80 habitaciones:
+- Ocupación promedio: 72%
+- Tarifa promedio por noche: $25,420
+- Los huéspedes internacionales pagan 20% más
+
+## Cómo lo hice
+- Usé Python con Pandas y Matplotlib
+- Limpié y preparé los datos
+- Creé gráficos fáciles de entender
+- Saqué conclusiones prácticas
+
+## Archivos que generé
+- Datos completos de ventas y reservas
+- Gráficos de análisis
+- Reportes con hallazgos
+
+*Andres Antolin - andres.antolin@email.com*
